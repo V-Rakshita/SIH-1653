@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 09.03.2025
+# Date: 10.03.2025
 ## Register Number: 212224100049
 ## Name: V Rakshita
 ## Problem Title
@@ -41,6 +41,7 @@ The web application therefore, serves as the official interview platform, specif
 
 
 ## Use Cases
+![Screenshot (194)](https://github.com/user-attachments/assets/9b1db1f1-0d34-491e-af5f-702b57ba6c22)
 
 
 ## Technology Stack
